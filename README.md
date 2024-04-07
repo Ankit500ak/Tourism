@@ -56,6 +56,7 @@ Contributions to this project are welcome! If you have suggestions for additiona
 
 ** this is a code replica of an existing website with advancement of components that a website should contain
 
+``` the images and data used is taken from another website to present the design in a mening full way i have used data from another website ```
 We value your feedback and appreciate any contributions that help enhance the website and provide a better experience for our users.
 
 ## Contact
