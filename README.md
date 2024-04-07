@@ -54,6 +54,8 @@ To view the website locally, simply open the `index.html` file in a web browser.
 
 Contributions to this project are welcome! If you have suggestions for additional tourist spots to include, would like to improve the website's design or functionality, or want to report any issues, please [open an issue](https://github.com/yourusername/tourist-spot-showcase/issues) or [submit a pull request](https://github.com/yourusername/tourist-spot-showcase/pulls).
 
+** this is a code replica of an existing website with advancement of components that a website should contain
+
 We value your feedback and appreciate any contributions that help enhance the website and provide a better experience for our users.
 
 ## Contact
